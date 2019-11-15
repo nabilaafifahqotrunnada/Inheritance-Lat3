@@ -1,0 +1,14 @@
+package lat3;
+
+/**
+ *
+ * @author nabila
+ */
+public class Hewan {
+   public static void testClassMethod() {
+        System.out.println("The class method in Hewan ... ");
+    }
+    public void testInstanceMethod() {
+        System.out.println("The instance Method in Hewan ... "); 
+}
+}
